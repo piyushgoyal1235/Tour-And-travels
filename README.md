@@ -52,7 +52,7 @@ Node.js: Ensure Node.js is installed on your machine. You can download it here.
 #### Installation
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/tour-and-travel.git
+git clone https://github.com/piyushgoyal1235/Tour-And-travels.git
 ```
 Navigate to the project directory:
 ```sh
